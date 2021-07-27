@@ -1,8 +1,6 @@
 <!-- in your header -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.9.0/devicon.min.css">
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=zeromask1337.visitor-badge)
-
 # 👹 Hello there !  
 
 ## My name's Dem0nizer and I'm a frontend developer. Currently working on becoming full stack.
@@ -34,7 +32,7 @@ Interested in server architecture, have experience with Ubuntu Server and mobile
 Down below you can see my projects. 
 If you are interested in working with me - feel free to contact me on [Telegram](https://t.me/incognitus) ☎ 
 
-
+![visitors](https://visitor-badge.glitch.me/badge?page_id=zeromask1337.visitor-badge)
 
 
 
