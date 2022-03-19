@@ -1,38 +1,40 @@
 <!-- in your header -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.9.0/devicon.min.css">
 
-# 👹 Hello there !  
+<div id="pic" align="center">
+  <img src="https://static.wikia.nocookie.net/meme/images/9/9f/Halolz-dot-com-portal2-nyancatspacecore.gif/revision/latest?cb=20110913214927" width="250px">   
+</div>
 
-## My name's Dem0nizer and I'm a frontend developer. Currently working on becoming full stack.
+# Hey there 👋
 
-Author of several articles on working with server software and installing a server on a
-portable device.
+My name's Max and I'm a frontend developer. Currently working on becoming full stack. 
+Interested in server architecture, Ubuntu and low-level languages. Maybe some day will be rust developer...
 
-Interested in server architecture, have experience with Ubuntu Server and mobile server.
-
-## 🦺 My Tech Stack
-
+### :hammer_and_wrench: Languages and Tools :
+  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="50">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="50">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg" width="50">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="50">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-plain.svg" width="50">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain-wordmark.svg" width="50">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain-wordmark.svg" width="50">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain-wordmark.svg" width="50">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain-wordmark.svg" width="50">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="50"/>
 
-## My stats
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=zeromask1337&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+
+### :fire: My Stats :
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zeromask1337)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeromask1337&layout=compact)](https://github.com/zeromask1337/github-readme-stats)
 
-Down below you can see my projects. 
-If you are interested in working with me - feel free to contact me on [Telegram](https://t.me/incognitus) ☎ 
+### :writing_hand: Blog Posts :
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=zeromask1337.visitor-badge)
+  - [How to launch Ubuntu on s905w and simular TV boxes](https://link.medium.com/uZDkvCE3rab)
+  - [How to install Terraria TShock Server on Ubuntu Server ?](https://link.medium.com/PdZZeHF3rab)
 
 
 
