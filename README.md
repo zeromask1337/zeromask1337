@@ -7,8 +7,7 @@
 
 # Hey there 👋
 
-My name's Max and I'm a frontend developer. Currently working on becoming full stack. 
-Interested in server architecture, Ubuntu and low-level languages. Maybe some day will be rust developer...
+My name's Max and I'm a frontend developer. Interested in server architecture, Ubuntu and low-level languages. Maybe some day will be rust developer...
 
 ### :hammer_and_wrench: Languages and Tools :
   
